@@ -181,7 +181,7 @@ export default function Register() {
         </div>
       </div>
 
-      {loading ? <Loading /> : null}
+    
     </>
   );
 }
