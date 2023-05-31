@@ -109,7 +109,7 @@ export default function Login() {
         </div>
       </div>
 
-      {loading ? <Loading /> : null}
+   
     </>
   );
 }
